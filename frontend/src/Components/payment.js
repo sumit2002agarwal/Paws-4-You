@@ -68,7 +68,7 @@ const Payment = () => {
 	const handleOpenRazorpay = (data) => {
 
         const options = {
-            key:'rzp_test_rGxHmaYvQD7bhS',
+            key:process.env.paykey,
             amount: Number(data.amount),
             currency: data.currency,
             order_id: data.id,
