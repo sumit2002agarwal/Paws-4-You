@@ -1,7 +1,7 @@
 const Razorpay = require('razorpay');
 var crypto = require("crypto");
-const KEY_ID ='rzp_test_rGxHmaYvQD7bhS'
-const KEY_SECRET ='QPfPn5maWf0SlHOzK4msCAaD'
+const KEY_ID =process.env.keyid
+const KEY_SECRET =process.env.keysecret
 
 module.exports.orders = (req, res) => {
 
