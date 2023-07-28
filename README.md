@@ -40,7 +40,7 @@ To use the Paws4You application, follow these steps:
 
 1. Visit [https://paws4you.netlify.app/](https://paws4you.netlify.app/) in your web browser.
 
-2. If you are an admin, log in to the admin panel using your credentials. If you are a regular user, you can explore the available animals, make donations, and submit queries without logging in.
+2. If you are an admin, log in to the admin panel using your credentials. If you are a regular user, you can explore the available animals, make donations, and submit queries.
 
 3. In the admin panel, add animals to the adoption list and manage user queries as necessary.
 
